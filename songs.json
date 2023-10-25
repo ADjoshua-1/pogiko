@@ -1,0 +1,42 @@
+{
+ "song1" : {
+    "song" : "Thick And Thin",
+    "artist" : "Lany",
+    "genre" : "Alternative rock",
+    "link": "https://www.youtube.com/watch?v=ZpUxgAXCK2E",
+    "id": "1"
+  },
+
+ "song2" : {
+    "song" : "Super Far",
+    "artist" : "Lany",
+    "genre" : "Alternative rock",
+    "link": "https://www.youtube.com/watch?v=O78Lpo4ctSE",
+    "id": "2"
+  },
+
+ "song3" : {
+    "song" : "13",
+    "artist" : "Lany",
+    "genre" : "Alternative rock",
+    "link": "https://www.youtube.com/watch?v=NDWJWILEA7o",
+    "id": "3"
+  },
+
+ "song4" : {
+    "song" : "Malibu Nights",
+    "artist" : "Lany",
+    "genre" : "Alternative rock",
+    "link": "https://www.youtube.com/watch?v=WMF4kot2qGA",
+    "id": "4"
+  },
+
+ "song5" : {
+    "song" : "ILYSB",
+    "artist" : "Lany",
+    "genre" : "Alternative rock",
+    "link": "https://www.youtube.com/watch?v=RPvhItA3lIM",
+    "id": "5"
+  }
+
+}
